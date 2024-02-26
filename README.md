@@ -1,5 +1,5 @@
 # Techuplift-Assignment-3
-Sonic Trust Banking System
+Sonic Trust Banking System.
 This project offers a basic Python implementation for a Banking System.
 It enables users to create accounts, deposit and withdraw funds, and check their account balances. 
 The system is intentionally kept simple for ease of understanding.
